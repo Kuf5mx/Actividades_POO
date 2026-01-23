@@ -139,12 +139,4 @@ public class CLI {
             }
         }
     }
-    /**
-     * Método principal que inicia la aplicación.
-     *
-     * @param args argumentos de línea de comandos (no se usan)
-     */
-    public static void main(String[] args) {
-        iniciar();
-    }
 }
