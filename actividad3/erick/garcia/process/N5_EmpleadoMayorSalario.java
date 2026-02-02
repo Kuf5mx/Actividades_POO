@@ -3,6 +3,8 @@ package erick.garcia.process;
 import java.util.Arrays;
 import java.util.List;
 
+import erick.garcia.models.Empleado;
+
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.Assertions;
 
@@ -47,31 +49,5 @@ public class N5_EmpleadoMayorSalario {
         Empleado mayor = empleadoMayorSalario(empleados);
         Assertions.assertNotNull(mayor);
         Assertions.assertEquals("B", mayor.nombre);
-    }
-}
-
-/**
- * Clase sencilla para el ejercicio.
- * La dejamos aquí para no crear otro archivo.
- */
-class Empleado {
-    public String nombre;
-    public int edad;
-    public double salario;
-    public String departamento;
-
-    /**
-     * Constructor.
-     *
-     * @param nombre nombre del empleado
-     * @param edad edad del empleado
-     * @param salario salario del empleado
-     * @param departamento departamento del empleado
-     */
-    public Empleado(String nombre, int edad, double salario, String departamento) {
-        this.nombre = nombre;
-        this.edad = edad;
-        this.salario = salario;
-        this.departamento = departamento;
     }
 }

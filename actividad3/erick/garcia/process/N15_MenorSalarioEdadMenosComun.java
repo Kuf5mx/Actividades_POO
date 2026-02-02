@@ -5,6 +5,8 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+import erick.garcia.models.Empleado;
+
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.Assertions;
 
