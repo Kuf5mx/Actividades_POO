@@ -10,6 +10,7 @@ public class Empleado {
     public double salario;
     public String departamento;
 
+    
     /**
      * Constructor.
      *

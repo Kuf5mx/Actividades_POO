@@ -13,6 +13,7 @@ import org.junit.jupiter.api.Assertions;
  */
 public class N8_PromedioSalario {
 
+    
     /**
      * Suma los salarios y divide entre cuántos hay.
      *

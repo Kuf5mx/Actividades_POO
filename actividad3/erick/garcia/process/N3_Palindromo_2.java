@@ -9,6 +9,7 @@ import org.junit.jupiter.api.Assertions;
  */
 public class N3_Palindromo_2 {
 
+    
     /**
      * Misma lógica del ejercicio, pero con otra prueba.
      *

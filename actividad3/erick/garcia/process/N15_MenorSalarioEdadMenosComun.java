@@ -16,6 +16,7 @@ import org.junit.jupiter.api.Assertions;
  */
 public class N15_MenorSalarioEdadMenosComun {
 
+    
     /**
      * Regresa el empleado con menor salario, pero solo de las edades que menos se repiten.
      *

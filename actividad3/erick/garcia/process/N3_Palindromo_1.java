@@ -9,6 +9,7 @@ import org.junit.jupiter.api.Assertions;
  */
 public class N3_Palindromo_1 {
 
+    
     /**
      * Revisa si un texto se lee igual al derecho y al revés.
      * Quita espacios y lo hace en minúsculas.

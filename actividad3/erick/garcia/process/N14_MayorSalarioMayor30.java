@@ -13,6 +13,7 @@ import org.junit.jupiter.api.Assertions;
  */
 public class N14_MayorSalarioMayor30 {
 
+    
     /**
      * Busca el mayor salario solo en los que tienen más de 30.
      *

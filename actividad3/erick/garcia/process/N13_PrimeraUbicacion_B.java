@@ -7,8 +7,9 @@ import org.junit.jupiter.api.Assertions;
  * N13 (B) - Primera ubicación
  * Segundo test en otro archivo.
  */
-public class N13_PrimeraUbicacion_B {
+public class N13_PrimeraUbicacion_2 {
 
+    
     /**
      * Igual que el A, pero con otra prueba.
      *

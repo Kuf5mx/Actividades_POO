@@ -9,6 +9,7 @@ import org.junit.jupiter.api.Assertions;
  */
 public class N13_PrimeraUbicacion_1 {
 
+    
     /**
      * Busca la primera posición de un carácter en un texto.
      *

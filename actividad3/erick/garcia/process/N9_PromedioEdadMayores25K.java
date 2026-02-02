@@ -13,6 +13,7 @@ import org.junit.jupiter.api.Assertions;
  */
 public class N9_PromedioEdadMayores25K {
 
+    
     /**
      * Promedio de edad pero filtrando por salario.
      *

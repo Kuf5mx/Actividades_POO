@@ -6,11 +6,13 @@ import java.util.List;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.Assertions;
 
+
 /**
  * N2 - Contar pares
  * Solo cuenta los que sean divisibles entre 2.
  */
 public class N2_ContarPares {
+
 
     /**
      * Cuenta cuántos números pares hay.
@@ -31,6 +33,7 @@ public class N2_ContarPares {
         }
         return contador;
     }
+
 
     /** Test básico. */
     @Test

@@ -16,6 +16,7 @@ import org.junit.jupiter.api.Assertions;
  */
 public class N6_EdadMasComun {
 
+    
     /**
      * Saca la edad que más se repite.
      *

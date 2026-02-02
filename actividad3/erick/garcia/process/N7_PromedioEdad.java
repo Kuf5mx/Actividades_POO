@@ -13,6 +13,7 @@ import org.junit.jupiter.api.Assertions;
  */
 public class N7_PromedioEdad {
 
+    
     /**
      * Calcula el promedio de edad.
      *

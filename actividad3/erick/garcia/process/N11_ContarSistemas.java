@@ -13,6 +13,7 @@ import org.junit.jupiter.api.Assertions;
  */
 public class N11_ContarSistemas {
 
+    
     /**
      * Cuenta los empleados que están en sistemas.
      *

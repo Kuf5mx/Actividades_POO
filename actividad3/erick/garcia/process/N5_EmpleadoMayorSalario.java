@@ -51,3 +51,4 @@ public class N5_EmpleadoMayorSalario {
         Assertions.assertEquals("B", mayor.nombre);
     }
 }
+

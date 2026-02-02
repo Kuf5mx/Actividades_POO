@@ -27,6 +27,7 @@ public class N1_CerosDerecha {
         List<Integer> resultado = new ArrayList<>();
         int ceros = 0;
 
+        
         for (Integer n : numeros) {
             if (n != null && n == 0) {
                 ceros++;
@@ -49,3 +50,4 @@ public class N1_CerosDerecha {
         Assertions.assertEquals(Arrays.asList(2, 1, 4, 2, 0, 0), moverCerosDerecha(input));
     }
 }
+
